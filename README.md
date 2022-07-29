@@ -3,7 +3,7 @@
 **Anwser:** HTTPS- Hyper Text Transfer Protocol Secure - it is in simple words called as govt. rules or a protocol which helps us to have a safe and secure interative in the internet, where http is Hyper Text Transfer Protocol.   HTTPS is more secure than HTTP. 
 HTTP is the language of the web - Protocol used for communication between web browsers and web servers 
 HTTPS used in client-Server communication. By using HTTP user sends the request to the server & the server sends the response to the user.
-Prt number whereas, HTTP - 80 , HTTPS - 443
+Port number whereas, HTTP - 80 , HTTPS - 443
 HTTP/2 is faster(in loading the content) than HTTP/1.1 and older versions
 The amount of loading time get reduced in HTTP 2
 HTTP/2 is currently in testing process  - beta version 
